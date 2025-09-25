@@ -44,8 +44,14 @@ Built as part of the **Code Institute Full-Stack Software Development Program**.
 - As a user, I want to **filter tasks by category or priority** so I can focus on what matters.  
 - As a user, I want to **see overdue tasks highlighted** so I don’t miss deadlines.  
 
-### 🖼️ Wireframes
-- Mobile and desktop wireframes will be stored in `/docs/wireframes`.  
+## 🖼️ Wireframes
+The following wireframes were created using Balsamiq to illustrate the planned design for desktop, tablet, and Android mobile layouts.
+
+All wireframe PNGs are stored in `/docs/wireframes/`.
+
+### Home Page
+**Desktop** ![Home Desktop](docs/wireframes/Home%20Page%20Desktop.png) **Tablet** ![Home Tablet](docs/wireframes/Home%20Page%20Tablet.png) **Android** ![Home Android](docs/wireframes/Home%20Page%20Android.png) ### Task List Page **Desktop** ![Task List Desktop](docs/wireframes/Task%20List%20Desktop.png) **Tablet** ![Task List Tablet](docs/wireframes/Task%20List%20Tablet.png) **Android** ![Task List Android](docs/wireframes/Task%20List%20Android.png) ### Edit Task Page **Desktop** ![Edit Task Desktop](docs/wireframes/Edit%20Task%20Desktop.png) **Tablet** ![Edit Task Tablet](docs/wireframes/Edit%20Task%20Tablet.png) **Android** ![Edit Task Android](docs/wireframes/Edit%20Task%20Android.png) ### Login Page **Desktop** ![Login Desktop](docs/wireframes/Login%20Details%20Desktop.png) **Tablet** ![Login Tablet](docs/wireframes/Login%20Details%20Tablet.png) **Android** ![Login Android](docs/wireframes/Login%20Details%20Android.png)
+
 
 ---
 
