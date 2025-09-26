@@ -57,11 +57,11 @@ All wireframe PNGs are stored in `/docs/wireframes/`.
 
 ## Database Design
 
-The To-Do List application uses a relational database designed with three main entities:
+The To-Do List application uses a relational database with three main entities:
 
-- **User**: Stores user account details.
-- **Task**: Represents tasks created by a user, linked to categories.
-- **Category**: Groups tasks into categories for better organization.
+- **User**: Stores user account details (username, email, password).  
+- **Task**: Represents tasks created by a user, including fields for title, description, due date, and completion status.  
+- **Category**: Groups tasks into categories for better organization and is linked to a specific user.  
 
 ### Entity-Relationship Diagram (ERD)
 ![ERD Diagram](docs/erd/todo_app_erd.png)
