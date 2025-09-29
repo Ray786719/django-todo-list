@@ -69,11 +69,70 @@ The To-Do List application uses a relational database with three main entities:
 
 ---
 
-## 📌 Agile Methodology
-- Agile planning and task tracking via a **GitHub Project Board**.  
-- Columns: *Backlog*, *In Progress*, *Done*.  
-- Issues represent **user stories** and are linked to commits.  
-- Screenshots of the board will be included in `/docs/agile-board.png`.  
+🏃 Agile Methodologies
+
+This project was planned and developed using Agile principles, following an iterative and incremental approach. The focus was on delivering small, usable features regularly while allowing for continuous feedback and improvements.
+
+Project Planning
+
+A GitHub Project Board was set up using a Kanban workflow with three columns: To Do, In Progress, and Done.
+
+Each task was created as a GitHub Issue, linked to a User Story.
+
+MoSCoW prioritisation was applied to clearly define what features were:
+
+Must Have – essential for project success.
+
+Should Have – important but not critical.
+
+Could Have – desirable if time permits.
+
+Won’t Have – excluded from this release.
+
+Epics and User Stories
+Epic 1: User Management
+
+As a new user, I want to register an account so I can access the app.
+
+As a returning user, I want to log in securely so that I can use my to-do list.
+
+Epic 2: Task Management
+
+As a user, I want to add tasks so I can remember things to do.
+
+As a user, I want to edit or delete tasks so I can keep my list accurate.
+
+As a user, I want to mark tasks as complete so I can track my progress.
+
+Epic 3: UI/UX
+
+As a user, I want the app to be mobile responsive so I can use it on my phone.
+
+As a user, I want clear navigation so I can find features easily.
+
+Evidence of Agile in Action
+
+GitHub Issues were created for each user story and labelled using MoSCoW.
+
+The Kanban board tracked progress and demonstrated how tasks moved from To Do → In Progress → Done.
+
+Screenshots of the board at different stages of development are included below as evidence:
+
+📸 [Placeholder: Insert board screenshots here]
+
+MoSCoW Prioritisation
+Priority	Feature
+Must Have	User registration and login functionality
+	Add new tasks to the to-do list
+	Edit and delete existing tasks
+	Mark tasks as complete/incomplete
+	Responsive design for desktop, tablet, and mobile
+Should Have	Categorise tasks (e.g., Work, Personal)
+	Display completed tasks separately from pending ones
+Could Have	Add due dates and reminders for tasks
+	Search or filter tasks
+Won’t Have	Sharing tasks with other users (out of current scope)
+	Integration with external calendar apps (e.g., Google Calendar, Outlook)
 
 ---
 
